@@ -17,8 +17,6 @@
 }
 /* HEADER */
 header { margin: var(--usual-size); }
-.projects { color: var(--usual-color); }
-.projects:hover { text-decoration: underline; }
 
 /* MAIN */
 .container-project-first {
